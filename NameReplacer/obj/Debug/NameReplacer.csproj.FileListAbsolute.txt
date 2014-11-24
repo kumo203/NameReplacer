@@ -1,0 +1,9 @@
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\bin\Debug\NameReplacer.exe.config
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\bin\Debug\NameReplacer.exe
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\bin\Debug\NameReplacer.pdb
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.Properties.Resources.resources
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.csproj.GenerateResource.Cache
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.exe
+c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.pdb
+C:\Users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.MainForm.resources
+C:\Users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.ViewerForm.resources
