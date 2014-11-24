@@ -7,3 +7,13 @@ c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj
 c:\users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.pdb
 C:\Users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.MainForm.resources
 C:\Users\ytp\documents\visual studio 2013\Projects\NameReplacer\NameReplacer\obj\Debug\NameReplacer.ViewerForm.resources
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\bin\Debug\NameReplacer.exe.config
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.exe
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.pdb
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\bin\Debug\NameReplacer.exe
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\bin\Debug\NameReplacer.pdb
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.MainForm.resources
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.Properties.Resources.resources
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.ViewerForm.resources
+C:\Users\Administrator\Documents\GitHub\NameReplacer\NameReplacer\obj\Debug\NameReplacer.csproj.GenerateResource.Cache

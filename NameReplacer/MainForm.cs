@@ -107,7 +107,7 @@ namespace NameReplacer
 
                     bool exist=false;
                     foreach (string[] pair in csvRecords) {
-                        Regex reg = new Regex("^.*" + Regex.Escape(pair[0]) + ".*$", RegexOptions.Multiline);   //マッチング用(行指定)
+                        Regex reg = new Regex("^(.*?)" + Regex.Escape(pair[0]) + "(.*?)$", RegexOptions.Multiline);   //マッチング用(行指定)
                         Regex rep = new Regex(Regex.Escape(pair[0]), RegexOptions.Multiline);                   //置換用(ワード指定)
                         Match m = reg.Match(content);
                         if (m.Success)
@@ -125,7 +125,7 @@ namespace NameReplacer
                                 string sub = content.Substring(0,m.Index);
                                 int lineNo = sub.Length - sub.Replace("\n", "").Length + 1;
                                 vf.SetParams(file, lineNo, pair[0], pair[1], m.Value, 
-                                    Regex.Replace(m.Value, Regex.Escape(pair[0]), pair[1]));
+                                    m.Groups[1] + pair[1] + m.Groups[2], m.Groups[1].Length);
 
                                 if (vf.ShowDialog() != System.Windows.Forms.DialogResult.OK)
                                 {
